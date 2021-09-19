@@ -5,4 +5,4 @@ Boostcourse에서 `파이토치로 시작하는 딥러닝 기초`수업을 통�
 
 ---  
 ## 1
-[Lec01-1 Machine Learning의 개념과 Tensor Manipulation(1)](https://sanghyunpark01.github.io/deeplearning_study/Lec01_1/)
+[Lec01-1 Machine Learning의 개념과 Tensor Manipulation(1)](https://sanghyunpark01.github.io/dl_study/DLstudy-Lec01_1/)
